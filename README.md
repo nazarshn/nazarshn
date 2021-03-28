@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @nazarshn (Nazar Shniak).
+- 👀 I’m interested in the future of tech, experienced in JavaScript, React, Redux, Node.js, Backbone.js, etc... 
+- 🌱 I’m currently learning CS, TypeScript and life.
+- 💞️ I’m looking to collaborate on projects that are beneficial for the better life of our population.
+- 📫 How to reach me: [Telegram - @su_warumo](https://t.me/su_warumo), [Twitter - @NazarShniak](https://twitter.com/NazarShniak), [Email - n.shniak@gmail.com](mailto:n.shniak@gmail.com)
